@@ -18,6 +18,7 @@
 - 🌱 Building my foundations in **Python, Data Structures, SQL, and Machine Learning**.
 - 📊 Interested in data analytics, data warehousing, and practical AI/ML applications.
 - 🛠️ Currently working on **Designing a Data Warehousing Solution for E-commerce Analytics**.
+- 🧩 Practising problem-solving and coding on LeetCode.
 - 🎯 Goal: keep learning, build useful projects, and grow as a developer.
 
 ## 🧰 Tech Stack
@@ -53,6 +54,22 @@ A student project focused on designing a data warehousing solution to organize e
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ag2645400-crypto&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
 </div>
 
+## 🧠 LeetCode Journey
+
+<div align="center">
+
+<a href="https://leetcode.com/u/adityagupta_2405/">
+  <img src="https://img.shields.io/badge/LeetCode-adityagupta__2405-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Visit my LeetCode profile" />
+</a>
+
+<br/><br/>
+
+<img src="https://leetcard.jacoblin.cool/adityagupta_2405?theme=dark&font=Baloo+Bhai%202&ext=heatmap" alt="LeetCode statistics and activity heatmap" />
+
+</div>
+
+*I’m using LeetCode to practise coding, strengthen problem-solving skills, and improve my understanding of data structures and algorithms.*
+
 ## 📚 What I'm Learning
 
 - Python programming and problem-solving
@@ -66,6 +83,10 @@ A student project focused on designing a data warehousing solution to organize e
 <div align="center">
   <a href="https://github.com/ag2645400-crypto">
     <img src="https://img.shields.io/badge/GitHub-ag2645400--crypto-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/adityagupta_2405/">
+    <img src="https://img.shields.io/badge/LeetCode-adityagupta__2405-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" />
   </a>
 </div>
 
